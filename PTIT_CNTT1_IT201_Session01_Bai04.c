@@ -7,5 +7,5 @@ int sum (int sum){
     return sum;
 }
 
-// time complexcity: o(n)
+// time complexcity: o(1)
 // space complexcity: o(1)

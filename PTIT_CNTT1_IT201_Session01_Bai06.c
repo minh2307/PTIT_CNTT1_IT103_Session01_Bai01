@@ -24,4 +24,4 @@ int count_element(){
 }
 
 // time complexcity: O(n^2)
-// space complexcity: O(n^2)
+// space complexcity: O(n)s
